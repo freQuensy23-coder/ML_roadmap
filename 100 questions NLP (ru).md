@@ -83,7 +83,7 @@
 * **ATTENTION AND TRANSFORMER ARCHITECTURE (15)**
   
   * [ ] 
-    32. \[\[Как считаете **attention**?\]\]
+    32. [Как считаете attention?](%D0%9A%D0%B0%D0%BA%20%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D0%B5%20attention%3F.md)
   * [ ] 
     33. [Сложность attention? Сравните с сложностью в rnn?](%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20attention%3F%20%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%20%D1%81%20%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E%20%D0%B2%20rnn%3F.md)
   * [ ] 
@@ -201,7 +201,7 @@
   * [ ] 
     85. Что такое адаптеры? Где и как мы можем их использовать?
   * [ ] 
-    86. \[\[Объясните концепции **metric learning**. Какие подходы вам известны?\]\]
+    86. [Объясните концепции metric learning. Какие подходы вам известны?](%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D0%B8%20metric%20learning.%20%D0%9A%D0%B0%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D1%8B%20%D0%B2%D0%B0%D0%BC%20%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%3F.md)
 * **INFERENCE (4)**
   
   * [ ] 
@@ -217,19 +217,19 @@
   * [ ] 
     91. [Как работает LoRA? Как вы будете выбирать параметры? Представьте, что мы хотим дообучить большую языковую модель, делаем LORA с маленьким R, но модель все равно не лезет по памяти, что еще можно сделать?](%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20LoRA%3F%20%D0%9A%D0%B0%D0%BA%20%D0%B2%D1%8B%20%D0%B1%D1%83%D0%B4%D0%B5%D1%82%D0%B5%20%D0%B2%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D1%8C%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%3F%20%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D1%8C%D1%82%D0%B5,%20%D1%87%D1%82%D0%BE%20%D0%BC%D1%8B%20%D1%85%D0%BE%D1%82%D0%B8%D0%BC%20%D0%B4%D0%BE%D0%BE%D0%B1%D1%83%D1%87%D0%B8%D1%82%D1%8C%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D1%83%D1%8E%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%D1%83%D1%8E%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C,%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D0%BC%20LORA%20%D1%81%20%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%BC%20R,%20%D0%BD%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%B2%D1%81%D0%B5%20%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%20%D0%BD%D0%B5%20%D0%BB%D0%B5%D0%B7%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8,%20%D1%87%D1%82%D0%BE%20%D0%B5%D1%89%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%3F.md)
   * [ ] 
-    92. \[\[В чем отличие **prefix tuning** от **p-tuning** и от **prompt tuning**?\]\]
+    92. [В чем отличие prefix tuning от p-tuning и от prompt tuning?](%D0%92%20%D1%87%D0%B5%D0%BC%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5%20prefix%20tuning%20%D0%BE%D1%82%20p-tuning%20%D0%B8%20%D0%BE%D1%82%20prompt%20tuning%3F.md)
   * [ ] 
     93. [Объясните scaling law.](%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D0%B5%20scaling%20law..md)
   * [ ] 
     94. [Объясните все этапы обучения LLM. От какого из этапов мы можем отказывать и в каких случаях.](%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D0%B5%20%D0%B2%D1%81%D0%B5%20%D1%8D%D1%82%D0%B0%D0%BF%D1%8B%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20LLM.%20%D0%9E%D1%82%20%D0%BA%D0%B0%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%B7%20%D1%8D%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%20%D0%BC%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%B5%D0%BC%20%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%20%D0%B8%20%D0%B2%20%D0%BA%D0%B0%D0%BA%D0%B8%D1%85%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D1%8F%D1%85..md)
   * [ ] 
-    95. \[\[Как работает **RAG**? Чем он отличается от few-shot KNN?\]\]
+    95. [Как работает RAG? Чем он отличается от few-shot KNN?](%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20RAG%3F%20%D0%A7%D0%B5%D0%BC%20%D0%BE%D0%BD%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%BE%D1%82%20few-shot%20KNN%3F.md)
   * [ ] 
     96. Какие методы квантизации вы знаете? Можем ли мы тюнить квантизованные модели?
   * [ ] 
     97. Как вы сможете предотвращать катастрофическое забывание у LLM?
   * [ ] 
-    98. \[\[Объясните принцип работы **KV cache**, **Grouped-Query Attention** и **MultiQuery Attention**.\]\]
+    98. [Объясните принцип работы KV cache, Grouped-Query Attentionи MultiQuery Attention](%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20KV%20cache,%20Grouped-Query%20Attention%D0%B8%20MultiQuery%20Attention.md)
   * [ ] 
     99. Объясните технологию, которая стоит за MixTral, в чем ее плюсы и минусы?
   * [ ] 
