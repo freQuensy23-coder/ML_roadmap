@@ -4,4 +4,8 @@
 
 ### Материалы
 
+* Theoretical questions
 [100 questions NLP (ru).md](100%20questions%20NLP%20%28ru%29.md) - 100+ полезных вопросов про ML. За основу взят [пост](t.me/alisaolega), однако ко всем (пока еще нет) вопросам написан комментарий.
+
+* Practical questions
+[NLP promblems (ru).md)(problems.md) - более практические задачки по ML/NLP
