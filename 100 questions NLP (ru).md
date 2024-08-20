@@ -7,7 +7,6 @@
 [канал Dealer.AI](https://t.me/dealerAI)
 [канал алиса олеговна](https://t.me/alisaolega)
 [канал Плюшевый Питон](https://t.me/plush_python)
-[ML phys](https://t.me/mlphys)
 
 # **CLASSIC NLP**
 
